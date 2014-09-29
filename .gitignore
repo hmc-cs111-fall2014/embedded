@@ -1,0 +1,6 @@
+project/target
+src/main/scala/stackable
+target
+.cache
+.classpath
+.project
